@@ -24,3 +24,5 @@ Then browse to ``http://localhost:5601/`` and define a Kibana index pattern of `
 
 In addition to viewing the raw values in the Discover tab, graphs can be set up for these values in the Visualization tab to help see how they are changing over time.
 
+// TODO Improve the exercises with different mecamisnims.
+

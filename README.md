@@ -1,4 +1,4 @@
-## Metrics of a running server (Metricbeat version)
+## Metrics of a running server (Metricbeat)
 
 To solve this problem I would use the Elastic stack. I would deploy Metricbeat on the servers to be monitored, and configure them to ship logs to Elasticsearch, and then use Kibana for visualisation. The implementation below:
 
